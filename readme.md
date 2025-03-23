@@ -7,3 +7,5 @@ To run the test automation for this project, you need to install the following t
 - Maven – Ensure Apache Maven is installed and configured (mvn -version).
 - Appium Inspector (Optional) – Useful for locating elements on the mobile app.
 - After setting up the environment, clone this repository, navigate to the project directory, and install dependencies using mvn clean install. Start Appium server (appium) and then run the test using mvn test.
+
+For API, i use RestAssured, just run it in intelij
